@@ -25,7 +25,7 @@
 	</div>
 
 	<div id="player">
-		<p> Audio Player will be placed in this area.
+		<script src="http://myradiostream.com/webplayer/462937.js"></script>
 	</div>
 	<p><p>
 	<div id="notification">
